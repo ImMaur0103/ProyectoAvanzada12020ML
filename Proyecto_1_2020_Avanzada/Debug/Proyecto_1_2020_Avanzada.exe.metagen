@@ -1,0 +1,39 @@
+  Proyecto12020Avanzada.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto_1_2020_Avanzada, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Proyecto12020Avanzada.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String[] MovimientosDePilas : Public
+    SByte P0Color IsSignUnspecifiedByte : Public
+    SByte P1Color IsSignUnspecifiedByte : Public
+    SByte P2Color IsSignUnspecifiedByte : Public
+    SByte P3Color IsSignUnspecifiedByte : Public
+    SByte P4Color IsSignUnspecifiedByte : Public
+    SByte P5Color IsSignUnspecifiedByte : Public
+    SByte P6Color IsSignUnspecifiedByte : Public
+    SByte P7Color IsSignUnspecifiedByte : Public
+    Int32 CantPilas : Public
+    Int32 CantPilasTrabajando : Public
+    Int32 CantNodos : Public
+    Boolean PilaActivas : Public
+    Boolean ColaActivas : Public
+    Boolean ExcesoNodos : Public
+    Boolean ExcesoPilasColas : Public
+    System.String RutaArchivoIngreso : Public
+    System.String RutaArchivoEgreso : Public
+    System.String MovimientosEstructuraRegresar : Public
