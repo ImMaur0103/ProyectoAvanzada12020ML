@@ -1,2 +1,2 @@
-#Color Manía
-##Project at univers
+# Color Manía
+project for university
